@@ -1,6 +1,6 @@
 
 # Projects
-  - [ ] Making A Screensaver Using Turtle In Python
+  - [x] Making A Screensaver Using Turtle In Python
   
   - [ ] Fixing And Adding More Features To My First Pong Game
   
