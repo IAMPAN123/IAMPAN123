@@ -1,21 +1,23 @@
 
-- Projects
-  MakingAScreensaverUsingTurtleInPython(done)
-  FixingAndAddingMoreFeaturesToMyFirstPongGame
-  MaybeUpgradingMySimpleCalculator
+# Projects
+  - [ ] Making A Screensaver Using Turtle In Python
   
-- Languages
-      Python(Learning)
+  - [ ] Fixing And Adding More Features To My First Pong Game
   
-- Collaborations:
-      NothingYet
+  - [ ] Maybe Upgrading My Simple Calculator
+  
+# Languages
+  Python(Learning)
+  
+# Collaborations:
+  Nothing Yet
 
-- Need help on:
-      NothingForNow
+# Need help on:
+  Nothing For Now
   
-- Socials(not really active):
-      Discord
+# Socials(not really active):
+  Discord
   
-- Fun(not) fact:
-      ILikeLeagueOfLegends
+# Fun(not) fact:
+  I Like League Of Legends
 
