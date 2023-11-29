@@ -1,27 +1,21 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on ...
-  Making a screenscaver using turtle in python(going horribly)
-  Fixing and adding more features to my first pong game
+- Projects
+  MakingAScreensaverUsingTurtleInPython(done)
+  FixingAndAddingMoreFeaturesToMyFirstPongGame
+  MaybeUpgradingMySimpleCalculator
   
-- 🌱 I’m currently learning ...
-  Python
+- Languages
+      Python(Learning)
   
-- 👯 I’m looking to collaborate on ...
-  Nothing yet
+- Collaborations:
+      NothingYet
 
-- 🤔 I’m looking for help with ...
-  Moving text with turtle in python
+- Need help on:
+      NothingForNow
   
-- 💬 Ask me about ...
-  No
+- Socials(not really active):
+      Discord
   
-- 📫 How to reach me: ...
-  Discord
-  
-- 😄 Pronouns: ...
-  He
-  
-- ⚡ Fun(not) fact: ...
-  I like league of legends
+- Fun(not) fact:
+      ILikeLeagueOfLegends
 
